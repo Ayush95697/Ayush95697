@@ -114,30 +114,7 @@ My work sits at the intersection of **applied machine learning**, **computer vis
 
 </div>
 
----
 
-<!-- GitHub Stats -->
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayush95697&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush95697&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=ffffff&langs_count=8" height="180" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush95697&theme=tokyonight&hide_border=true&background=0d1117&stroke=00D4FF&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF" width="60%" />
-</div>
-
----
-
-<!-- GitHub Trophies — something special! -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ayush95697&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" width="100%" />
-</div>
-
----
 
 <!-- Contribution Snake — something special! -->
 ## 🐍 Contribution Snake
