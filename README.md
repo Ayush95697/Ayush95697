@@ -23,7 +23,7 @@
 
 <img align="right" alt="AI Coding GIF" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-I'm a **3rd-year B.Tech CSE student** at Raj Kumar Goel Institute of Technology (RKGIT), graduating in **2027**, with a focused pursuit of a career in **AI/ML Engineering and Research**.
+I'm a **4th-year B.Tech CSE student** at Raj Kumar Goel Institute of Technology (RKGIT), graduating in **2027**, with a focused pursuit of a career in **AI/ML Engineering and Research**.
 
 My work sits at the intersection of **applied machine learning**, **computer vision**, and **agentic AI systems** — with an emphasis on building things that are production-ready, not just demo-grade.
 
